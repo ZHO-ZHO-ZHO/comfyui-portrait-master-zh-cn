@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-portrait-master-zh-cn"
+description = "ComfyUI Portrait Master 简体中文版."
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/ZHO-ZHO-ZHO/comfyui-portrait-master-zh-cn"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "comfyui-portrait-master-zh-cn"
+Icon = ""
